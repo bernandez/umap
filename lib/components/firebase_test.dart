@@ -1,4 +1,4 @@
-import 'package:flow/Models/flow_firebase_data_model.dart';
+import 'package:umap/models/umap_firebase_data_model.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 

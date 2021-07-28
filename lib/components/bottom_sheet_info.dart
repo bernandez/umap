@@ -1,17 +1,17 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flow/Components/directions/distance_calculator.dart';
+import 'package:umap/components/directions/distance_calculator.dart'
 import 'package:flutter/material.dart';
-import 'package:flow/constants.dart';
+import 'package:umap/constants.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:flow/Components/flow_shared_preferences.dart';
+import 'package:umap/Components/umap_shared_preferences.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'package:location/location.dart';
 import 'directions/directions_model.dart';
-import 'flow_maps.dart';
-import 'flow_location.dart';
+import 'umap_maps.dart';
+import 'umap_location.dart';
 
 class BottomSheetInfo extends StatefulWidget {
   final String bottomSheetID;
