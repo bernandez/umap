@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:umap/components/directions/distance_calculator.dart'
+import 'package:umap/components/directions/distance_calculator.dart';
 import 'package:flutter/material.dart';
 import 'package:umap/constants.dart';
 import 'package:flutter_svg/flutter_svg.dart';
