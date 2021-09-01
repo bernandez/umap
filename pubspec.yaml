@@ -64,32 +64,32 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-    assets:
-      - Assets/images/
-      - Assets/icons/
-      - Assets/illustrations/
+  assets:
+    - Assets/images/
+    - Assets/icons/
 
-    fonts:
-      - family: Poppins
-        fonts:
-          - asset: Assets/fonts/Poppins-Black.ttf
-          - asset: Assets/fonts/Poppins-BlackItalic.ttf
-          - asset: Assets/fonts/Poppins-Bold.ttf
-          - asset: Assets/fonts/Poppins-BoldItalic.ttf
-          - asset: Assets/fonts/Poppins-ExtraBold.ttf
-          - asset: Assets/fonts/Poppins-ExtraBoldItalic.ttf
-          - asset: Assets/fonts/Poppins-ExtraLight.ttf
-          - asset: Assets/fonts/Poppins-ExtraLightItalic.ttf
-          - asset: Assets/fonts/Poppins-Italic.ttf
-          - asset: Assets/fonts/Poppins-Light.ttf
-          - asset: Assets/fonts/Poppins-LightItalic.ttf
-          - asset: Assets/fonts/Poppins-Medium.ttf
-          - asset: Assets/fonts/Poppins-MediumItalic.ttf
-          - asset: Assets/fonts/Poppins-Regular.ttf
-          - asset: Assets/fonts/Poppins-SemiBold.ttf
-          - asset: Assets/fonts/Poppins-SemiBoldItalic.ttf
-          - asset: Assets/fonts/Poppins-Thin.ttf
-          - asset: Assets/fonts/Poppins-ThinItalic.ttf
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: Assets/fonts/Poppins-Black.ttf
+        - asset: Assets/fonts/Poppins-BlackItalic.ttf
+        - asset: Assets/fonts/Poppins-Bold.ttf
+        - asset: Assets/fonts/Poppins-BoldItalic.ttf
+        - asset: Assets/fonts/Poppins-ExtraBold.ttf
+        - asset: Assets/fonts/Poppins-ExtraBoldItalic.ttf
+        - asset: Assets/fonts/Poppins-ExtraLight.ttf
+        - asset: Assets/fonts/Poppins-ExtraLightItalic.ttf
+        - asset: Assets/fonts/Poppins-Italic.ttf
+        - asset: Assets/fonts/Poppins-Light.ttf
+        - asset: Assets/fonts/Poppins-LightItalic.ttf
+        - asset: Assets/fonts/Poppins-Medium.ttf
+        - asset: Assets/fonts/Poppins-MediumItalic.ttf
+        - asset: Assets/fonts/Poppins-Regular.ttf
+        - asset: Assets/fonts/Poppins-SemiBold.ttf
+        - asset: Assets/fonts/Poppins-SemiBoldItalic.ttf
+        - asset: Assets/fonts/Poppins-Thin.ttf
+        - asset: Assets/fonts/Poppins-ThinItalic.ttf
 
 
   # To add custom fonts to your application, add a fonts section here,
